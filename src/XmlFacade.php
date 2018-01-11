@@ -1,4 +1,5 @@
 <?php
+
 namespace zongphp\xml;
 
 use zongphp\framework\build\Facade;
